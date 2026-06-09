@@ -1,0 +1,15 @@
+CUESTIONARIO - SEMANA 2:HTML,CSS y ESTRUCTURA WEB
+pregunta 1: Respuesta A
+¿Que significa HTML?
+HyperText Markup Lenguage(Lenguage de marcado de hipertexto)
+
+pregunta 2: Respuesta B
+¿Cual es la funcion principal de CSS en una pagina WEB?
+Definir el diseño, estilos visuales, colores y presentacion
+
+pregunta 3: Respuesta A
+¿Cual es la etiqueta HTML Corresta para insertar un parrafo?
+La etiqueta <p>
+
+pregunta 4: Respuesta
+

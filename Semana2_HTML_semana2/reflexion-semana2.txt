@@ -1,0 +1,8 @@
+REFLEXION ACADEMICA - SEMANAN 2
+Pregunta: ¿Por que es importante separar el contendio semanatico estructurado (HTML) de la capa estetico-visual (CSS) al momento de diseñar y desarrollar aplicaciones web modernas?
+Superar HTML y CSS es una practica fundamental en el desarrollo web moderno porque permite que cada tecnologia cumpla su funcion especifica sin insertar con la otra.
+HTML se encarga de organizar el contenido de forma semantica, dandole significado y estrutura a los elementos de la pagina.
+CSS, por su parte, controla unicamnete la apariencia visual:colores, tipografia, margenes y distribucion.
+Esta separacion facilita el mantenimiento del codigo, ya que un cambio de diseño no obliga a modificar el contenido.
+ademas mejora la accesibilidad del sitio para personas con discapacidades y para motores de busqueda.En proyectos grandes, permite que diseñadores y desarolladores trabajen en paralelo de forma organizada y eficiente.
+ 
